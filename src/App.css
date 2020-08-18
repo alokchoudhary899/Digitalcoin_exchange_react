@@ -1,0 +1,19 @@
+.App {
+      text-align: center;
+      background-color: #BAC8CE;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      font-size: calc(2px + 2vmin);
+}
+input {
+  display: block;
+  margin: 2px 0 2px;
+}
+.style {
+    width: 18rem;
+    height: 10rem;
+    background-color: lavender;
+}
